@@ -14,6 +14,8 @@ import org.springframework.web.bind.annotation.*;
 @RequiredArgsConstructor
 public class CustomerAPI {
 
+    //bakalim update olacak mi ?
+
     private final CustomerService customerService;
 
 
